@@ -1,0 +1,7 @@
+.modal{
+  background: rgba(0, 0, 0, 1);
+  display:flex;
+  width: 100vw;
+  height: 100vh;
+  border: 0;
+}
